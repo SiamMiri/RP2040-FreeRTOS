@@ -52,4 +52,5 @@ Mkfile.old
 dkms.conf
 
 build
-freeRTOS
+freeRTOS/freeRTOS
+freeRTOS/freeRTOS-Kernel
